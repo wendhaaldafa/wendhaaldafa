@@ -1,14 +1,14 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="Wendha Aldafa Putra" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
-'''diff
+```diff
 # My name is Wendha Aldafa Putra Heranusa 
 # 🔭 Currently studying at Malang State Polytechnic
 # 🎲 Hobbies: Playing Guitar, Hangout
 # 🌱 Currently learning C++ and JS
 # 💬 Ask me about Java and PHP
 # 🌠 Feel free to connect with me!
-'''
+```
 
 <h3 align="left">My Social Media:</h3>
 <p align="left">
